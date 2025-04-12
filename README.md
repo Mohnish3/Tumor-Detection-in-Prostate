@@ -66,7 +66,7 @@ Cross-Entropy Loss: Measures discrepancy between predicted probabilities and tru
 
 Soft Dice Loss: Measures overlap between predicted and true segmentation.
 
-Optimizer: Adam with learning rate (1 \times 10^{-3}).
+Optimizer: Adam with learning rate (10^{-3}).
 
 Epochs: 2000 epochs.
 
@@ -88,7 +88,7 @@ Hyperparameter Tuning Procedures
 
 Batch Size: 4
 
-Learning Rate: (1 \times 10^{-3})
+Learning Rate: (10^{-3})
 
 Number of Epochs: 2000
 
