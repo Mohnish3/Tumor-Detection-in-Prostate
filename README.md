@@ -68,7 +68,7 @@ Soft Dice Loss: Measures overlap between predicted and true segmentation.
 
 Optimizer: Adam with learning rate (10^{-3}).
 
-Epochs: 2000 epochs.
+Epochs: 125 epochs.
 
 Model Checkpointing: Save model on the best validation loss.
 
@@ -90,7 +90,7 @@ Batch Size: 4
 
 Learning Rate: (10^{-3})
 
-Number of Epochs: 2000
+Number of Epochs: 125
 
 Augmentation Probabilities: Balanced to prevent over-augmentation.
 
